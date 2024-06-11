@@ -1,2 +1,1 @@
-# imageclassification
-Image Classification Project
+# model
